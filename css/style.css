@@ -1,0 +1,33 @@
+body {
+  background-color: salmon;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  color: pink;
+}
+
+.pages {
+  text-align: center;
+}
+
+.pages a {
+  color: green;
+  display: inline;
+  margin: 0 10px;
+}
+
+.pages a:hover {
+  color: yellowgreen;
+}
+
+img {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
